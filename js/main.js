@@ -28,7 +28,7 @@ let scores = [
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2464.798593166528!2d5.864710672611976!3d51.846373928529076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c708440b7d9793%3A0xedf8adf8e5742c0e!2sBairro%20Alto!5e0!3m2!1snl!2sde!4v1675538894926!5m2!1snl!2sde",
   ],
   [
-    "Downtown (NIJMEGEN)",
+    "Downtown(NIJMEGEN)",
     3,
     0,
     5,
@@ -96,6 +96,20 @@ let scores = [
     4,
     5,
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40244.919780061704!2d6.960376125018023!3d50.91802874735761!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bf244642c7bc5f%3A0xf10ca03d5821bb94!2sErnst%20Kaffeer%C3%B6ster!5e0!3m2!1snl!2sde!4v1675540159709!5m2!1snl!2sde",
+  ],
+    [
+    "Coffee Collective Torvehallerne(CPH)",
+    4.5,
+    4.5,
+    4.5,
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8997.246852079721!2d12.551961039550784!3d55.6835682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465253ad94236fed%3A0x3c973abf4ee3b1b9!2sCoffee%20Collective%20Torvehallerne!5e0!3m2!1snl!2snl!4v1679406027955!5m2!1snl!2snl",
+  ],
+    [
+    "Coffee Collective Bernikow(CPH)",
+    4,
+    3,
+    4.5,
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.51267349461!2d12.578051773397148!3d55.680074042612546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465253176f76facb%3A0xa00cc27264d9a33c!2sCoffee%20Collective%20Bernikow!5e0!3m2!1snl!2snl!4v1679406329411!5m2!1snl!2snl",
   ],
 ];
 
